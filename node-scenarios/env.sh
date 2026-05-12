@@ -26,3 +26,4 @@ export DISKS=${DISKS:=""}
 
 
 export TEST_TIMEOUT=${TEST_TIMEOUT:="300"}
+export MEMORY_LIMIT=${MEMORY_LIMIT:="512Mi"}
